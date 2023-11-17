@@ -1,0 +1,4 @@
+SUBDIRS = \
+	pinger \
+	service \
+	trapper
